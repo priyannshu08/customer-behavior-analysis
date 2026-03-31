@@ -62,7 +62,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
   
 7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
 
-
 ## 👨‍💻 About the Author
 Hey, I’m Priyanshu Kumar, a Data Analyst & Content Creator.
 I break down complex data topics into simple, practical content that actually helps you land a job.
